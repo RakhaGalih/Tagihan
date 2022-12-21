@@ -1,6 +1,6 @@
 # Tagihan
 
-A Motion Lab project
+A Motion Lab Flutter Project
 
 Rakha Galih Nugraha Sukma
 1302223118
