@@ -4,8 +4,6 @@
 
 Rakha Galih Nugraha Sukma
 
-
-
 1302223118
 
 SE-46-02
